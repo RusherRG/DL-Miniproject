@@ -1,0 +1,10 @@
+wandb_version: 1
+
+learning_rate:
+  value: 0.055808558418734146
+momentum:
+  value: 0.9
+optimizer:
+  value: adadelta
+weight_decay:
+  value: 0.005290311766330745

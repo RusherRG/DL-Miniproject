@@ -1,0 +1,41 @@
+wandb_version: 1
+
+learning_rate:
+  desc: null
+  value: 0.1
+momentum:
+  desc: null
+  value: 0.99
+optimizer:
+  desc: null
+  value: adadelta
+weight_decay:
+  desc: null
+  value: 0.001
+_wandb:
+  desc: null
+  value:
+    python_version: 3.8.16
+    cli_version: 0.14.1
+    framework: torch
+    is_jupyter_run: true
+    is_kaggle_kernel: false
+    start_time: 1681094343.304549
+    t:
+      1:
+      - 1
+      - 41
+      - 55
+      2:
+      - 1
+      - 41
+      - 55
+      3:
+      - 2
+      - 23
+      - 37
+      4: 3.8.16
+      5: 0.14.1
+      8:
+      - 1
+      - 5

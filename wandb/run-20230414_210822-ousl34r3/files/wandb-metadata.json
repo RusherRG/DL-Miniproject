@@ -1,0 +1,119 @@
+{
+    "os": "Linux-6.0.12-76060006-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-04-15T01:08:23.282812",
+    "startedAt": "2023-04-15T01:08:22.380806",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/home/rusherrg/Masters/DL/miniproject/parse.py",
+    "codePath": "parse.py",
+    "host": "aincrad",
+    "username": "rusherrg",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 8,
+    "cpu_count_logical": 16,
+    "cpu_freq": {
+        "current": 2968.610375,
+        "min": 2200.0,
+        "max": 3800.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2879.767,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2879.714,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2879.458,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2878.699,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 3375.372,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 3642.147,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2877.891,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 3800.0,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2200.0,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2906.917,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 3294.116,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 2878.829,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 3598.578,
+            "min": 2200.0,
+            "max": 3800.0
+        },
+        {
+            "current": 3006.278,
+            "min": 2200.0,
+            "max": 3800.0
+        }
+    ],
+    "disk": {
+        "total": 195.80270767211914,
+        "used": 49.310997009277344
+    },
+    "gpu": "NVIDIA GeForce RTX 3060",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3060",
+            "memory_total": 12639338496
+        }
+    ],
+    "memory": {
+        "total": 31.24606704711914
+    }
+}
